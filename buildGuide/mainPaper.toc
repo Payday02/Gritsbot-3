@@ -1,0 +1,49 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Printed Circuit Board Assembly}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Teensy 3.2}{5}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Assembly Steps}{5}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Required Materials}{5}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Creating Perpendicular Solder Points and the First Solder Pass}{7}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.4}Soldering the Surface Mount Headers}{8}{subsubsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.5}Finishing Soldering the Teensy}{9}{subsubsection.2.1.5}
+\contentsline {subsection}{\numberline {2.2}Pololu Carrier with Sharp GP2Y0A60SZLF Analog Distance Sensor}{10}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Assembly Steps}{10}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Required Materials}{10}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Cutting the Pololu Carrying Board}{11}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Soldering the Header Pins}{12}{subsubsection.2.2.4}
+\contentsline {subsection}{\numberline {2.3}Populating the GRITSBot X Main PCB}{13}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Assembly Steps}{13}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Required Materials}{13}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Soldering the Top Through Hole Components}{13}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}Soldering the Motor and Encoder Leads}{14}{subsubsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.5}Soldering the IR Sensors}{15}{subsubsection.2.3.5}
+\contentsline {subsection}{\numberline {2.4}Wire Leads to the Raspberry Pi Zero W}{16}{subsection.2.4}
+\contentsline {section}{\numberline {3}Chassis Assembly}{16}{section.3}
+\contentsline {subsection}{\numberline {3.1}Laser Cutting the Chassis}{17}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Assembling the Base}{17}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Assembly Steps}{17}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Required Materials}{18}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Motor and Wheel Assembly}{19}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Tamiya Caster Ball Assembly}{20}{subsubsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Attaching the Motors and Caster to the Base Plate}{21}{subsubsection.3.2.5}
+\contentsline {subsection}{\numberline {3.3}Putting Together the Battery Bracket}{22}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Assembly Steps}{22}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Required Materials}{23}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Snapping Together the Battery Box}{24}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Attaching the Mounting Spacers}{24}{subsubsection.3.3.4}
+\contentsline {subsection}{\numberline {3.4}Attaching the Cassis Base, Battery Bracket, and PCB}{25}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Assembly Steps}{25}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Required Materials}{26}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.3}Attaching the Battery Box to the Chassis Base}{26}{subsubsection.3.4.3}
+\contentsline {subsubsection}{\numberline {3.4.4}Attaching the PCB}{26}{subsubsection.3.4.4}
+\contentsline {subsection}{\numberline {3.5}Assembling and Attaching the Chassis Cover}{27}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Assembly Steps}{27}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Required Materials}{28}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.3}Attaching the Peripheral Circuit Boards to the Top Chassis}{28}{subsubsection.3.5.3}
+\contentsline {subsubsection}{\numberline {3.5.4}Attaching the Chassis Cover to the Base Chassis}{30}{subsubsection.3.5.4}
+\contentsline {subsection}{\numberline {3.6}The Final Touches}{32}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.6.1}Assembly Steps}{32}{subsubsection.3.6.1}
+\contentsline {subsubsection}{\numberline {3.6.2}Required Materials}{32}{subsubsection.3.6.2}
+\contentsline {subsubsection}{\numberline {3.6.3}Attaching Periferal Electronics}{32}{subsubsection.3.6.3}
+\contentsline {subsubsection}{\numberline {3.6.4}Attaching the Wireless Charger}{33}{subsubsection.3.6.4}
+\contentsline {subsubsection}{\numberline {3.6.5}CELEBRATE!}{34}{subsubsection.3.6.5}

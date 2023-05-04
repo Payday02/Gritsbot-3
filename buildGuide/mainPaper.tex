@@ -1,0 +1,59 @@
+\documentclass[11pt]{article} % use larger type; default would be 10pt
+
+% misc packages
+\usepackage{subfiles}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage{subfig}
+%
+\usepackage[numbers]{natbib}
+
+%% Setup for links, auto referencing, and indexing
+\input{_preamble_hyperref}
+
+%Fake Section to Suppress Section Title if wanted
+\newcommand{\fakesection}[1]{%
+  \par\refstepcounter{section}% Increase section counter
+  \sectionmark{#1}% Add section mark (header)
+  \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
+  % Add more content here, if needed.
+}
+
+% The paper headers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\thepage}
+\lhead{GRITSBot X Construction Guide}
+
+\begin{document}
+%
+
+\title{GRITSBot X \\ \Large{Construction Guide}}
+
+\author{Sean Wilson\\Sean.T.Wilson@gatech.edu}% <-this % stops a space
+
+% make the title area
+\maketitle
+\thispagestyle{empty} %Get rid of number on first page
+
+\tableofcontents
+\clearpage
+
+{\let\thefootnote\relax\footnote{The work reported here was sponsored by the US National Science Foundation through grant numbers 1531195 and 1544332, and by the Office for Naval Research through grant number N00014-17-1-2323.}}
+
+\subfile{sections/introduction}
+\subfile{sections/pcb}
+\subfile{sections/chassis}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Bibliography Stuff
+\clearpage
+\bibliographystyle{unsrtnat}
+\bibliography{mainPaper.bib}
+
+\end{document}
+
+
