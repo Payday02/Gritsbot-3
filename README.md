@@ -1,6 +1,46 @@
 # Gritsbot-3
 This is an upgraded version of Gritsbot 2 from: https://github.gatech.edu/therobotcollective/gritsbot_2
-# Setup Process for the gritsbot\_3
+
+# Run The Teensy Demo
+
+## 1 - Clone to your repo
+```
+git clone https://github.com/Payday02/Gritsbot-3.git
+```
+
+## 2 - Install Teensyduino / Arduino
+For the Teensyduino, follow this link to install on Mac, Linux, and Windows: https://www.pjrc.com/teensy/td_download.html
+
+## 3 - Locate Your Arduino Library
+It should be under ```Arduino/Libraries```
+
+## 4 - Copy and Paste the required libraries into the Arduino Library
+Go back to the repo where you cloned Gritsbot-3.git
+```
+cp -a Gritsbot-3/firmware/library/. Arduino/Libraries
+```
+or
+
+```
+cd Gritsbot-3/firmware/library
+```
+and then copy everything in the library folder, then paste at Arduino/Libraries
+
+## 5 - Run the Expo demo code
+Go back to the repo where you cloned Gritsbot-3.git
+```
+cd Gritsbot-3/firmware/teensyCode/ExpoDemo
+```
+
+
+
+
+
+
+
+
+
+# Setup Process for the gritsbot\_3 (Need To Fix)(CheckPoint)
 
 # 1 - Making the Base Image
 
