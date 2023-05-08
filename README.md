@@ -1,6 +1,8 @@
 # Gritsbot-3
 This is an upgraded version of Gritsbot 2 from: https://github.gatech.edu/therobotcollective/gritsbot_2
 
+![alt text](https://github.com/Payday02/Gritsbot-3/blob/main/img/GRITSBot3_img1.png?raw=true)
+
 # Run The Teensy Demo
 
 ## 1 - Clone to your repo
